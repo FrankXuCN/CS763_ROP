@@ -1,0 +1,3 @@
+break /home/seed/Desktop/CS763/rop/rop.c:14
+disable $bpnum
+
